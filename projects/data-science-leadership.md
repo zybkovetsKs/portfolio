@@ -1,25 +1,25 @@
-# International Data Science Leadership & ML Delivery
+# International Data Science Leadership
 
-**Roles:** Group Data Science Manager, 4finance (March–December 2025); Head of Data Science, Digital Finance International (September 2023–February 2025).
+**4finance — Group Data Science Manager, March–December 2025**  
+**Digital Finance International — Head of Data Science, September 2023–February 2025**
 
-## Business challenge
+## Scope
 
-Coordinate Data Science priorities across operating markets, concentrate effort on valuable modeling work, and make delivery and production performance visible to business stakeholders.
+At 4finance, I owned the group Data & AI roadmap supporting credit decisioning, risk and growth across **10 countries**, and led a distributed European DS team of **9**. At DFI, I led an APAC team of **3**, with responsibility for model development and production oversight.
 
-## My contribution
+## Changes I delivered
 
-- Owned the group Data & AI roadmap across **10 countries** at 4finance and led a distributed European DS team of **9**.
-- Reprioritized the model portfolio, reduced low-impact work and aligned delivery with credit decisioning, risk and growth needs.
-- At Digital Finance International, led a team of **3** and redesigned delivery processes through portfolio prioritization and automation.
-- Established real-time model monitoring and KPI/SLA reporting to support production oversight and business accountability.
-- Worked with technical, risk, product and country stakeholders on scope, priorities and delivery decisions.
+- **Model portfolio:** reprioritized modeling work, reduced low-value activities and concentrated delivery on higher-impact decisioning use cases.
+- **Development process:** redesigned DS delivery processes and introduced automation into model development pipelines.
+- **Production oversight:** established real-time model monitoring and KPI/SLA reporting, giving stakeholders a structured view of model performance and delivery accountability.
+- **Business coordination:** aligned product, risk, technical and country stakeholders around the work to be delivered and the decisions it supported.
 
-## Results and relevance
+## Concrete outputs
 
-The work brought portfolio prioritization, model lifecycle oversight and business reporting into the management of DS delivery. It demonstrates how I connect technical execution with operating priorities across markets.
+A group Data & AI roadmap, a reprioritized modeling portfolio, redesigned development processes, and monitoring and reporting frameworks for production models. These changes connected the team's modeling activity with business priorities and ongoing operating responsibilities.
 
-My earlier Sberbank roles included **20+ AI/ML and analytical projects** across credit risk, insurance and marketing, with technical teams of **4–5**.
+The scope was broader than building individual models: I was accountable for what the team worked on, how delivery was organized and how model performance was followed after implementation.
 
-This experience underpins my approach to AI transformation: establish priorities, clarify ownership, support delivery and make operational performance observable.
+Earlier Sberbank roles included **20+ analytical and ML projects** in credit risk, insurance and marketing, with teams of **4–5**.
 
 [Back to portfolio](../README.md)
