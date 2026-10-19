@@ -1,26 +1,30 @@
 # AI Search Visibility & LLM Evaluation
 
-**Role:** KSENAI founder; independent product definition, methodology and hands-on AI-assisted development (2026–present).
+**KSENAI, 2026–present | Independent product design and hands-on AI-assisted development**
 
-## Business challenge
+## Product and purpose
 
-Businesses need to understand whether AI-generated answers mention them, describe their offer accurately and support recommendations with relevant sources. An assessment must turn observations into decisions about what to improve first.
+I designed and prototyped **Ksenai AO Engine**, an AI-assisted assessment workflow for examining how businesses appear in LLM-generated answers. It supports my consulting work on AI Search Visibility and answer evaluation.
 
-## My contribution
+The business question is practical: does an AI system mention the company, explain its offer accurately, and use relevant sources when answering a potential customer's question?
 
-- Defined the assessment around business-relevant questions, brand representation, citations and answer quality.
-- Designed and prototyped an AI-assisted evaluation workflow to support structured review of LLM-generated responses.
-- Combined answer evaluation with website and content diagnostics.
-- Translated findings into client-facing diagnostics, specifications and prioritized improvement roadmaps.
+## What I built and delivered
 
-## What I delivered
+- An assessment methodology covering brand mentions, citations, sources and answer quality across LLM-generated responses.
+- An AI-assisted workflow for structured evaluation, developed and iterated hands-on with AI coding tools.
+- Client-facing diagnostics connecting AI-answer observations with website and content issues.
+- Technical specifications, content recommendations and prioritized implementation plans derived from the assessments.
 
-An assessment methodology and AI-assisted workflow, supported by business-facing recommendations and implementation planning. The work connects product discovery, evaluation design and practical delivery.
+## From observation to action
 
-## Why it matters for AI leadership
+| Assessment focus | Business-facing output |
+|---|---|
+| How AI describes the business | Findings on the clarity and accuracy of its representation |
+| Which sources and citations appear | Source and citation analysis |
+| Website and content gaps | Recommendations and implementation tasks |
 
-This project demonstrates my ability to define a concrete AI use case, build and iterate with AI tooling, and make technical findings understandable to decision-makers. I performed the KSENAI work personally rather than managing a delivery team.
+These are descriptions of delivered work, not a sample client audit. The workflow's implementation, prompts, configurations and client records remain private.
 
-This summary makes no claim of improved rankings, leads or revenue. The underlying implementation is proprietary; code, prompts, architecture and client records are excluded.
+I defined the product and performed the KSENAI work myself. This case demonstrates applied AI product development alongside my earlier experience managing DS teams. It does not claim that the engine is autonomous or that an assessment alone increases traffic, leads or revenue.
 
 [KSENAI](https://ksenai.ai/) · [Back to portfolio](../README.md)
